@@ -8,6 +8,8 @@ date: "16 February 2022"
 
 **Programming for Data Science**
 
+Location: '[Github Repo Link](https://github.com/Indie1977/st2195_assignment_1)'
+
 The object of the practice assignment is to create a git repository, occupy it with...
 
 1. Markdown files
